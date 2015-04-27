@@ -15,4 +15,5 @@ MFC框架实现简单手写字符识别
 
 ## 项目组成
 基于机器学习的手写字符识别系统通常包括四个部分：图像预处理、特征提取、输出识别结果和图像信息四个阶段，如图所示：
+
 ![image](https://github.com/sjaiwl/image_folder/blob/master/handWriting/hand3.png)
