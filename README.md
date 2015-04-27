@@ -31,3 +31,18 @@ MFC框架实现简单手写字符识别
 
 ![image](https://github.com/sjaiwl/image_folder/blob/master/handWriting/hand4.png)
 
+## 使用说明
+* 1.首先要确保加载的train-images.idx3-ubyte和train-labels.idx1-ubyte的路径的正确，此处要使用绝对路径，以免发生错误。
+
+* 2.点击“载入图片”按钮，然后从数据集中载入图片。
+
+* 3.点击“下一张图片”按钮，然后输出信息中会显示图片的识别结果，同时右边输出结果是图片的像素信息。
+
+![image](https://github.com/sjaiwl/image_folder/blob/master/handWriting/hand5.png)
+
+## 总结
+* 1.该项目能基本识别所有的数字，对字母和汉字还没法识别，还需要进一步的改进，同时识别的效率还有待提高。
+* 2.MNIST数据集的导入只能使用绝对路径，还需要进一步的改进。
+* 3.自己在完成系统后，对MFC的编程更加熟悉，同时自己对C#的基本语法有了一定的了解。
+* 4.自己对具体的识别算法还不是很熟悉，还需要更深入的理解，对于BP神经网络和SVM支持向量机的识别算法需要进一步理解。
+
