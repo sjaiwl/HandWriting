@@ -1,0 +1,16 @@
+D:\VS2013 Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VS2013 Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RecgnitionSystem.csproj.GenerateResource.Cache
+D:\VS2013 Projects\RecgnitionSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\VS2013 Projects\RecgnitionSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\VS2013 Projects\RecgnitionSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\VS2013 Projects\RecgnitionSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VS2013 Projects\RecgnitionSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\VS2013 Projects\RecgnitionSystem\WindowsFormsApplication1\obj\Debug\RecgnitionSystem.csproj.GenerateResource.Cache
+D:\VS2013 Projects\RecgnitionSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\VS2013 Projects\RecgnitionSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\VS2013 Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RecognitionSystem.exe.config
+D:\VS2013 Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RecognitionSystem.exe
+D:\VS2013 Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RecognitionSystem.pdb
+D:\VS2013 Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RecognitionSystem.Properties.Resources.resources
+D:\VS2013 Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RecognitionSystem.exe
+D:\VS2013 Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RecognitionSystem.pdb
