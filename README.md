@@ -17,3 +17,17 @@ MFC框架实现简单手写字符识别
 基于机器学习的手写字符识别系统通常包括四个部分：图像预处理、特征提取、输出识别结果和图像信息四个阶段，如图所示：
 
 ![image](https://github.com/sjaiwl/image_folder/blob/master/handWriting/hand3.png)
+
+## 项目设计
+* 1.基于MNIST 数据集的图像识别系统，首先就是要加载MNIST数据集，需要下载两个文件:train-images.idx3-ubyte和train-labels.idx1-ubyte，从而导入图像信息，在程序中加载正确的路径，导入图片。
+
+![image](https://github.com/sjaiwl/image_folder/blob/master/handWriting/hand1.png)
+
+* 2.载入图片后，点击识别可以识别图片的信息，识别是基于MNIST 数据集的识别算法，然后输出相应图片对应的识别结果。
+
+![image](https://github.com/sjaiwl/image_folder/blob/master/handWriting/hand2.png)
+
+* 3.可以一次载入图像集中的所有图片，同时输出结果不仅有识别结果，同时还输出了图片的像素信息。
+
+![image](https://github.com/sjaiwl/image_folder/blob/master/handWriting/hand4.png)
+
